@@ -2,10 +2,16 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-
+ float:right;
 }
 
 h1 {
+<<<<<<< HEAD
     color: red;
 
+=======
+ font-family:fantasy;
+    font-size: 24pt;
+    text-decoration:overline;
+>>>>>>> Mr-Chiu-1
 }
