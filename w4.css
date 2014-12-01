@@ -6,5 +6,50 @@
 }
 
 h1 {
+	color: #000077;
+
+}
+
+h2 {
+	color: #770000;
+}
+
+.eslrTitle {
+	font-weight: bold;
+	font-size: 18pt;
+
+}
+
+#eagleLogo{
+	float:right;
+}
+
+#eagleBottom{
+	width: 600px;
+}
+
+
+a:link{
+
+	color:green;
+
+}
+
+a:hover{
+
+	color: red;
+	background-color: #333333;
+
+}
+
+a:active{
+	background-color: red;
+	color: white;
+}
+
+a:visited{
+
+	background-color: green;
+	color: white;
 
 }
