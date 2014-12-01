@@ -2,9 +2,38 @@
 /* Sample CSS Document */
 
 #eagleLogo {
+	float: right;
 
 }
 
 h1 {
+	color: #000077;
+
+}
+
+h2{
+	color: #770000;
+}
+
+.eslrTitle{
+	font-weight: bold;
+	font-size: 18pt;
+}
+
+a:hover {
+	color: red;
+	background-color: #333333;
+	font-size: 24pt;
+}
+
+a:link {
+
+}
+
+a:active{
+
+}
+
+a:visited{
 
 }
